@@ -7,9 +7,12 @@ From this section, I aim to learn more foundations involving the HTML language a
 <!--- What I've Learned --->
 
 From this lesson, I've learned the following:
--Use of href/src for anchors/images
--Use of OL and UL for organized/unorganized lists
--Linking webpages together through hyperlinks
--Scaling images using width and height using HTML(not css)
--Different sizes of headers(h1, h2, h3, h4, h5, h6)
--Understanding of required HTML code for projects, such as !DOCTYPE and META.
+
+<ul>
+    <li>Use of href/src for anchors/images</li>
+    <li>Use of OL and UL for organized/unorganized lists</li>
+    <li>Linking webpages together through hyperlinks</li>
+    <li>Scaling images using width and height using HTML(not css)</li>
+    <li>Different sizes of headers(h1, h2, h3, h4, h5, h6)</li>
+    <li>Understanding of required HTML code for projects, such as !DOCTYPE and META.</li>
+</ul>
