@@ -2,16 +2,30 @@ body {
     background-color: tan;
 }
 
-.main-img {
+.main-img,
+.spag-img {
     display: block;
-    width: 400px;
+    width: 200px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
 .recipes,
-.title-text {
+h1 {
     text-align: center;
     font-family: Helvetica, sans-serif;
+}
+
+.spag-content {
+    font-size: 16px;
+    font-family: Helvetica, sans-serif;
+}
+
+#return-button {
+    display: block;
+    font-size: 16;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
 }
