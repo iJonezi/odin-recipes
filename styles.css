@@ -2,10 +2,7 @@ body {
     background-color: tan;
 }
 
-.main-img,
-.smoothie-img,
-.panzanella-img,
-.spag-img {
+img {
     display: block;
     width: 400px;
     height: auto;
