@@ -4,6 +4,7 @@ body {
 
 .main-img,
 .smoothie-img,
+.panzanella-img,
 .spag-img {
     display: block;
     width: 400px;
@@ -19,7 +20,8 @@ h1 {
 }
 
 .spag-content,
-.smoothie-content {
+.smoothie-content,
+.panzanella-content {
     font-size: 16px;
     font-family: Helvetica, sans-serif;
 }
