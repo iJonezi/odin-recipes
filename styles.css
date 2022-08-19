@@ -3,6 +3,7 @@ body {
 }
 
 .main-img,
+.smoothie-img,
 .spag-img {
     display: block;
     width: 400px;
@@ -17,7 +18,8 @@ h1 {
     font-family: Helvetica, sans-serif;
 }
 
-.spag-content {
+.spag-content,
+.smoothie-content {
     font-size: 16px;
     font-family: Helvetica, sans-serif;
 }
